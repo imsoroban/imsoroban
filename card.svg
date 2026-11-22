@@ -1,0 +1,31 @@
+<svg width="800" height="330" viewBox="0 0 800 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  
+  <rect width="800" height="330" rx="8" fill="#0d0d0d" />
+
+  
+  <text x="530" y="34" fill="#ff2a85" font-family="monospace" font-size="13">home   about me   blog   projects</text>
+
+  
+  <text x="400" y="76" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="28" font-weight="bold" letter-spacing="2">kaylyn // soroban</text>
+
+  
+  <rect x="130" y="100" width="540" height="175" rx="4" fill="#080808" stroke="#ff2a85" stroke-width="1.5" />
+
+  
+  <text x="155" y="132" fill="#ff2a85" font-family="monospace" font-size="18" font-weight="bold">welcome!</text>
+
+  
+  <text x="155" y="158" fill="#e0e0e0" font-family="monospace" font-size="13">here are some things about me:</text>
+
+  
+  <text x="165" y="184" fill="#ff2a85" font-family="monospace" font-size="13">- <tspan fill="#e0e0e0">certified silly goose</tspan></text>
+  <text x="165" y="204" fill="#ff2a85" font-family="monospace" font-size="13">- <tspan fill="#e0e0e0">coding &amp; retro tech enthusiast</tspan></text>
+  <text x="165" y="224" fill="#ff2a85" font-family="monospace" font-size="13">- <tspan fill="#e0e0e0">loves entomology</tspan></text>
+  <text x="165" y="244" fill="#ff2a85" font-family="monospace" font-size="13">- <tspan fill="#e0e0e0">bash/shell, html, css • learning python &amp; c</tspan></text>
+
+  
+  <text x="155" y="266" fill="#888888" font-family="monospace" font-size="12">make sure to view some of my projects!</text>
+
+  
+  <text x="400" y="306" text-anchor="middle" fill="#ff2a85" font-family="monospace" font-size="13">GitHub   •   Discord   •   Linux Mint</text>
+</svg>
