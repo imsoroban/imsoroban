@@ -105,7 +105,7 @@ jobs:
             <line x1="264" y1="84" x2="770" y2="84" stroke="#262626" stroke-width="1"/>
 
             <text x="264" y="110" fill="#ff2a85" font-family="monospace" font-size="13">os</text>
-            <text x="375" y="110" fill="#e0e0e0" font-family="monospace" font-size="13">Linux Mint</text>
+            <text x="375" y="110" fill="#e0e0e0" font-family="monospace" font-size="13">Linux</text>
 
             <text x="264" y="134" fill="#ff2a85" font-family="monospace" font-size="13">shell</text>
             <text x="375" y="134" fill="#e0e0e0" font-family="monospace" font-size="13">bash / sh</text>
