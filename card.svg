@@ -52,11 +52,11 @@
 <line x1="264" y1="198" x2="770" y2="198" stroke="#262626" stroke-width="1"/>
 
 <text x="264" y="222" fill="#ff2a85" font-family="monospace" font-size="13">repos</text>
-<text x="375" y="222" fill="#e0e0e0" font-family="monospace" font-size="13">15 public</text>
+<text x="375" y="222" fill="#e0e0e0" font-family="monospace" font-size="13">16 public</text>
 
 <text x="264" y="246" fill="#ff2a85" font-family="monospace" font-size="13">telemetry</text>
 <text x="375" y="246" fill="#e0e0e0" font-family="monospace" font-size="13">5 stars  •  0 followers</text>
 
 <text x="264" y="270" fill="#ff2a85" font-family="monospace" font-size="13">top_langs</text>
-<text x="375" y="270" fill="#e0e0e0" font-family="monospace" font-size="13">html, javascript, c, maxscript</text>
+<text x="375" y="270" fill="#e0e0e0" font-family="monospace" font-size="13">html, javascript, c, assembly</text>
 </svg>
